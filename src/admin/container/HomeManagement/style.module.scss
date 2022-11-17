@@ -1,0 +1,29 @@
+.content {
+  padding: 20px;
+  min-height: 1000px;
+}
+
+.buttons {
+  padding-top: 20px;
+  margin-top: 20px;
+  border-top: 1px dashed #ccc;
+  text-align: center;
+}
+
+.site-layout-background {
+  background: #fff;
+}
+
+.trigger {
+  padding: 0 24px;
+  font-size: 18px;
+  line-height: 64px;
+  cursor: pointer;
+  transition: color 0.3s;
+  color:#fff;
+}
+
+.trigger:hover {
+  color: #1890ff;
+}
+

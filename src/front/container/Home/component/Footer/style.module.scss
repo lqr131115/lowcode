@@ -1,0 +1,37 @@
+.footer {
+  background: #FFF;
+
+  .back {
+    list-style-type: none;
+    padding-top: 15px;
+    display: flex;
+
+    .item {
+      margin-right: 10px;
+
+      .link {
+        color: cornflowerblue;
+        text-decoration: none;
+      }
+    }
+
+  }
+
+  .list {
+    list-style-type: none;
+    background-color: #ccc;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+
+    .copyright,
+    .record {
+      color: #666;
+    }
+
+    .copyright {
+      margin-right: 20px;
+    }
+  }
+
+}
